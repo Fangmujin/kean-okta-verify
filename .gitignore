@@ -1,0 +1,12 @@
+# Build results
+bin/
+obj/
+*.user
+
+# Rider / VS
+.idea/
+.vs/
+
+# Local user data (never commit seeds/settings)
+seed.dat
+settings.ini
